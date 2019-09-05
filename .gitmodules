@@ -1,0 +1,9 @@
+[submodule "atlas-kfd-web-app"]
+	path = atlas-kfd-web-app
+	url = https://github.com/witek1902/atlas-kfd-web-app.git
+[submodule "atlas-kfd-api"]
+	path = atlas-kfd-api
+	url = https://github.com/witek1902/atlas-kfd-api
+[submodule "atlas-kfd-site"]
+	path = atlas-kfd-site
+	url = https://github.com/witek1902/atlas-kfd-site
